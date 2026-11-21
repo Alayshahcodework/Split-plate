@@ -1,0 +1,16 @@
+{
+  "name": "split-plate",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Split Plate: compare everyone's diets, get a few restaurants the whole group can eat at, and rate them to decide.",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "node --watch backend/server.js",
+    "test": "cd backend && node --test"
+  },
+  "engines": {
+    "node": ">=18.17"
+  },
+  "license": "UNLICENSED"
+}

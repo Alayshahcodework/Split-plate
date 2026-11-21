@@ -1,0 +1,10 @@
+{
+  "name": "Split Plate",
+  "short_name": "Split Plate",
+  "description": "Less thinking. More eating. Find a restaurant your whole group can eat at.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F4F2EE",
+  "theme_color": "#1B1F2E",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
